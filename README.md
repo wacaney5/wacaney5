@@ -30,7 +30,7 @@
 - Build responsive and user-friendly websites
 - Develop full-stack projects
 - Improve my problem-solving skills
-- Learn more about APIs, databases, and cybersecurity
+- Learn more about databases, and cybersecurity
 - Contribute to open-source projects
 
 ## 🌐 Connect With Me
